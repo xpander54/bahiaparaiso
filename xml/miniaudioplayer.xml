@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jukebox>
+
+    <song>
+	<title>Hotal Bahia Paraiso</title>
+	<artist>Hotel Bahia Paraiso</artist>
+        <album>Hotel Bahi Paraiso</album>
+	<url>music/indx2.mp3</url>
+    </song>
+	<song>
+	<title>Hotal Bahia Paraiso</title>
+	<artist>Hotel Bahia Paraiso</artist>
+        <album>Hotel Bahi Paraiso</album>
+	<url>music/index audios hotel mp3 320k.mp3</url>
+    </song>
+    <song>
+	<title>Hotal Bahia Paraiso</title>
+	<artist>Hotel Bahia Paraiso</artist>
+        <album>Hotel Bahi Paraiso</album>
+	<url>music/actividades hotel audio mp3 320 k.mp3</url>
+    </song>
+	<song>
+	<title>Hotal Bahia Paraiso</title>
+	<artist>Hotel Bahia Paraiso</artist>
+        <album>Hotel Bahi Paraiso</album>
+	<url>music/act2.mp3</url>
+    </song>
+
+
+
+</jukebox>

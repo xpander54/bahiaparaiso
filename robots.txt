@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hotelbahiaparaiso.com.mx/sitemap.xml
+

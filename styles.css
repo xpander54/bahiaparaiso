@@ -1,0 +1,313 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*
+{
+	margin:0;
+	padding:0;
+	text-align:left;
+	
+	
+}
+
+
+.masFotos
+{
+	margin: 0 0 0 150px;
+	padding: 0;
+	
+}
+
+.img-sct
+{
+	margin: 20px 0 0 0;
+	width: 30% !important;
+}
+
+.font13
+{
+	font-size: 1.3em;
+}
+
+.masFotos h1
+{
+	font-size: 2em !important;
+}
+
+.row img
+{
+	width: 80%;
+}
+
+.slide-index
+{
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.some-height
+{
+	height: 60px;
+}
+
+#txt {font-size:25px; text-align:left; color:#666; margin:0px 0px 0px 0px;}
+
+
+.headder
+{
+	margin:0 auto;
+	position:relative;
+	width:100%;
+	height:230px;
+	background:url(imgs/bkg9.jpg);
+	
+	
+}
+
+.logo
+{
+	position:absolute;
+	width:263px;
+	height:200px;
+	background:url(imgs/logo1.png);
+	margin:15px 0px 0px 160px;
+	padding:0;
+	
+	
+}
+
+.mainSlide
+{
+	position:absolute;
+	margin:40px 60px 0px 540px;
+	width:542px;
+	height:150px;
+}
+
+.container
+{
+	margin:0px auto 10px;
+	width:1007px;
+	height:1750px;
+	background:none;
+	border-bottom:solid #000 1px;
+}
+
+.menuP
+{
+	width:110px;
+	height:400px;
+	position:absolute;
+	padding:10px 20px;
+}
+
+.imgmenu
+{
+	margin:20px 0px 0px 0px;
+	width:125px;
+	height:20px;
+	position:relative;
+	/*background-image:url(menus/inicio1.png);*/
+	left:0px;
+}
+
+.menuA
+{
+	width:710px;
+	height:55px;
+	position:relative;
+	/*float:left;*/
+	padding:0px 0px;
+	z-index:2;
+}
+
+.nfo
+{
+	position:absolute;
+	margin:5px 0px 0px 170px;
+	width:83k0px;
+	height:60px;
+	background:none;
+}
+
+.col2-txt, .col2-txt h2
+{
+	font-weight: bold;
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+
+
+#twitter_update_list {
+	font-size: 12px;
+	line-height: 21px;
+	list-style: none;
+	}
+#twitter_update_list li {
+	background: url('images/twitter-divider.gif') bottom left repeat-x;
+	padding-bottom: 7px;
+	margin-bottom: 9px;
+	}
+#twitter_update_list span, #twitter_update_list span a {
+	color: #300;
+	text-decoration: none;
+	}
+#twitter_update_list a {
+	color: #6f7276;
+	}
+	
+.inicio
+{
+	position:absolute;
+	width:750px;
+	height:450px;
+	background:url(banners/slidebkg.jpg);
+	margin:140px 0px 0px 210px;
+}
+
+.indxTxt
+{
+	width:790px;
+	line-height:1.2em;
+	text-align:justify;
+}
+
+.video
+{
+	position:absolute;
+	margin:800px 80px 0px 550px;
+	
+}
+
+.title1
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#82231c;
+	font-size:18px;
+	margin:0px 0px 0px 0px;
+	text-decoration:underline;
+}
+.data2
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#82231c;
+	font-size:14px;
+	margin:10px 0px 0px 0px;
+	text-indent:0px;
+}
+
+.menuTitle
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#843A08;
+	font-size:14px;
+	font-weight:bold;
+	float:left;
+	text-decoration:underline;
+	margin:20px 0px 0px 50px;
+}
+
+.menuCont
+{
+	position:absolute;
+	width:750px;
+	height:830px;
+	margin:20px 0px 0px 0px;
+	padding:0;
+}
+
+.topCont
+{
+	position:relative;
+	margin:0px 0px 0px 50px;
+	padding:0;
+	width:750px;
+	height:400px;
+	text-align:left;
+}
+
+.leftC
+{
+	position:relative;
+	float:left;
+	width:320px;
+	height:400px;
+	text-indent:10px;
+	padding-left:10px;
+}
+
+.midLine
+{
+	position:absolute;
+	/*margin:0 auto;*/
+	margin:20px 0px 0px 335px;
+	width:2px;
+	height:360px;
+	padding:0;
+	background:#930;
+	z-index:5;
+	left:0px;
+}
+
+
+
+h2
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	color:#843A08; 
+}
+ul
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:10px;
+	color:#843A08;
+	list-style:square;
+	margin-left:20px;
+}
+.rightC
+{
+	position:relative;
+	float:right;
+	width:320px;
+	text-indent:10px;
+}
+
+.menuSw
+{
+	background:#960;
+	width:750px;
+	height:100px;
+	margin:530px 0px 0px 0px;
+	left:0px;
+	position:absolute;
+	
+}
+
+.map
+{
+	margin:20px 0px 0px 150px;
+	position:absolute;
+	width:425px;
+	height:350px;
+	border:solid #963 2px;
+}
+
+.contacto
+{
+	width:300px;
+	height:auto;
+	
+	position:relative;
+	float:left;
+}
+
+.contactoCont
+{
+	width:525px;
+	height:450px;
+	position:relative;
+	margin:0 auto;
+	border:solid #963 3px;
+	
+}
