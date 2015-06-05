@@ -1,4 +1,24 @@
 @charset "UTF-8";
+
+/* custom text */
+
+.caption-custom
+{
+	margin: 0px 0px -50px -120px !important;
+}
+
+/* 
+/custom text */
+
+
+/*custon image caption*/
+
+
+.img-caption-custom {
+	margin: 0px 0px 280px -50px !important;
+}
+
+
 /* CSS Document */
 
 *
@@ -297,7 +317,7 @@ ul
 {
 	width:300px;
 	height:auto;
-	
+	margin:10px 0px 0px 10px;
 	position:relative;
 	float:left;
 }
