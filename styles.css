@@ -4,12 +4,28 @@
 
 .caption-custom
 {
-	margin: 0px 0px -50px -120px !important;
+	margin: 0px 0px 330px -155px !important;
+	background-color: #87e641;
+	width:200px;
+	height:120px;
 }
 
+/*reglamento*/
+
+.reglamentohab {
+	border-style: outset;
+	border-width: 3px;
+}
+
+.reglamentohab li {
+	margin-left: 20px !important;
+}
+
+.reglamentohab h2 {
+	margin-left: 20px !important;
+}
 /* 
 /custom text */
-
 
 /*custon image caption*/
 
